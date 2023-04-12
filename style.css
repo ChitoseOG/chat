@@ -1,0 +1,25 @@
+body {
+	background-color: #ECEFF1;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+#chat-window {
+	background-color: #FFFFFF;
+	border: 1px solid #BDBDBD;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #BDBDBD;
+	margin: 50px auto;
+	max-width: 500px;
+	padding: 10px;
+}
+
+#message-list {
+	height: 300px;
+	overflow-y: scroll;
+}
+
+#message-input {
+	margin-top: 10px;
+}
